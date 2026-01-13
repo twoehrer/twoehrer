@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @twoehrer
-- 👀 I’m interested in mathematics of machine learning, numerics of partial different equations, uncertainty quantification etc.
+- 👀 I’m interested in mathematics of machine learning, partial different equations, network dynamics etc.
 - 💞️ I’m looking to collaborate on ML projects.
 - 📫 How to reach me ...
 
